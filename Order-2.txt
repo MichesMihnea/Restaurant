@@ -1,0 +1,11 @@
+Order placed at:  Sat Apr 27 21:38:56 EEST 2019
+Contents: 
+Base Product 1 100.0
+Base Product 1 100.0
+Base Product 1 100.0
+Base Product 1 100.0
+Base Product 1 100.0
+Base Product 1 100.0
+Base Product 1 100.0
+Price:   700.0
+Finalized at:   Sat Apr 27 21:39:00 EEST 2019

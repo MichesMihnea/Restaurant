@@ -1,0 +1,10 @@
+Order placed at:  Sun Apr 28 21:40:07 EEST 2019
+Contents: 
+Base Product 1 100.0
+Base Product 1 100.0
+Composite Product 3 1000.0
+Composite Product 3 1000.0
+Composite Product 2 500.0
+Composite Product 2 500.0
+Price:   3200.0
+Finalized at:   Sun Apr 28 21:40:19 EEST 2019
